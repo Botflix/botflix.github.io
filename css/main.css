@@ -1,0 +1,90 @@
+.header {
+    
+        width: 100%;
+    
+        text-align: center;
+    
+        color: #fff;
+    
+        background-color: #6a81ed;
+    
+    }
+
+div#container {
+
+    max-width: 75em;
+
+    margin: 0 auto;
+
+    color: #000;
+
+}
+
+
+
+body {
+
+    height: 100%;
+
+    width: 100%;
+
+    color: #000;
+
+    text-align: center;
+
+}
+
+i {
+
+    transition: all 0.25s;
+
+}
+
+h1 {
+
+    font-size: 2em;
+
+    cursor: default;
+
+}
+
+.brand {
+
+    border-radius: 50%;
+
+    display: inline-block;
+
+    max-width: 6em;
+
+}
+
+h2 {
+
+    font-weight: thin;
+
+    font-size: 3em;
+
+}
+
+.ceo {
+    border: 5px solid #5ce5ff;
+}
+
+.medium {
+
+    max-width:70em;
+
+    text-align:center;
+
+    margin:auto;
+
+}
+
+.footer {
+
+    color:#fff;
+
+    background-color: #6a81ed;
+
+    padding: 4em
+}
